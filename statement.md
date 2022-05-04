@@ -11,7 +11,7 @@ fun main(args: Array<String>) {
 
 ## Desafio 2
 Usando Kotlin, crie uma função que recebe um array de números inteiros e retorna o seu valor médio. 
-Requisitos: utilize parâmetros de entrada e saída na sua função, arrays, e loops.
+**Requisitos:** utilize parâmetros de entrada e saída na sua função, arrays, e loops.
 
 ```kotlin runnable
 fun main(args: Array<String>) {
@@ -21,7 +21,7 @@ fun main(args: Array<String>) {
 
 ## Desafio 3
 Usando Kotlin, crie uma função que recebe como entrada um array de números inteiros e retorna e um array somente com os números que são pares, filtrando o array de entrada. 
-Requisitos: utilize parâmetros de entrada e saída na sua função, arrays, e loops. Dica: crie um array dentro da função para guardar o retorno.
+**Requisitos:** utilize parâmetros de entrada e saída na sua função, arrays, e loops. Dica: crie um array dentro da função para guardar o retorno.
 
 ```kotlin runnable
 fun main(args: Array<String>) {
@@ -32,8 +32,8 @@ fun main(args: Array<String>) {
 ## Desafio 4
 Usando Kotlin, crie uma função que recebe como entrada dois parametros: um array de números inteiros, e um numero inteiro. 
 A função deve retornar um valor booleano `true` se o valor segundo parâmetro está contido no `array` passado no primeiro parametro e `false` caso o contrário. 
-Requisito: utilize parâmetros de entrada e saída na sua função, arrays, e loops. 
-Dica: crie um variável do tipo booleando que vai funcionar como uma flag dentro da função.
+**Requisitos:** utilize parâmetros de entrada e saída na sua função, arrays, e loops. 
+**Dica:** crie um variável do tipo booleando que vai funcionar como uma flag dentro da função.
 
 ```kotlin runnable
 fun main(args: Array<String>) {
