@@ -1,7 +1,8 @@
 # Esquenta dos Hackers - versão Kotlin
 
 ## Desafio 1
-Usando Kotlin, calcule o valor médio dos números a seguir: 10, 2, 4, 5, 6, 15, 7. Requisitos: Utilize arrays e loops.
+Usando Kotlin, calcule o valor médio dos números a seguir: 10, 2, 4, 5, 6, 15, 7. 
+**Requisitos:** Utilize arrays e loops.
 
 ```kotlin runnable
 fun main(args: Array<String>) {
@@ -21,7 +22,8 @@ fun main(args: Array<String>) {
 
 ## Desafio 3
 Usando Kotlin, crie uma função que recebe como entrada um array de números inteiros e retorna e um array somente com os números que são pares, filtrando o array de entrada. 
-**Requisitos:** utilize parâmetros de entrada e saída na sua função, arrays, e loops. Dica: crie um array dentro da função para guardar o retorno.
+**Requisitos:** utilize parâmetros de entrada e saída na sua função, arrays, e loops. 
+**Dica:** crie um array dentro da função para guardar o retorno.
 
 ```kotlin runnable
 fun main(args: Array<String>) {
