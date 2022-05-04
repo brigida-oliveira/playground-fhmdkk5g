@@ -53,11 +53,17 @@ fun main(args: Array<String>) {
 Usando Kotlin, escreva uma função que conte de 1 a 100 e imprima “Fizz” se o contador for divisível por 3, “Buzz” se for divisível por 5, “Fizz Buzz” se for divisível por três e cinco ou o próprio contador para todos os outros casos.
 
 ### Exemplo de entrada e saída
+
 Quando o contador for 1 deve imprimir “1”
+
 Quando o contador for 2 deve imprimir “2”
+
 Quando o contador for 3 deve imprimir “Fizz”
+
 Quando o contador for 4 deve imprimir “4”
+
 Quando o contador for 5 deve imprimir “Buzz”
+
 Quando o contador for 15 deve imprimir “Fizz Buzz”
 
 ```kotlin runnable
@@ -72,7 +78,9 @@ A função deve retornar um array de inteiros contendo a quantidade de elementos
 O array retornado deve está ordenado em ordem crescente.
 
 O código desafio7(array: [5,4,3,2,1], count: 3) deve retornar [1,2,3]
+
 O código desafio7(array: [256,16], count: 3) deve retornar [16, 256].
+
 O código desafio7(array: [], count: 3) deve retornar um array vazio.
 
 ```kotlin runnable
