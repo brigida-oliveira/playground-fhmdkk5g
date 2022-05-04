@@ -51,7 +51,7 @@ fun main(args: Array<String>) {
 }
 ```
 
-# Desafio 6
+## Desafio 6
 Usando Kotlin, escreva uma função que conte de 1 a 100 e imprima “Fizz” se o contador for divisível por 3, “Buzz” se for divisível por 5, “Fizz Buzz” se for divisível por três e cinco ou o próprio contador para todos os outros casos.
 
 ### Exemplo de entrada e saída
