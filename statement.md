@@ -31,7 +31,7 @@ fun main(args: Array<String>) {
 
 ## Desafio 4
 Usando Kotlin, crie uma função que recebe como entrada dois parametros: um array de números inteiros, e um numero inteiro. 
-A função deve retornar um valor booleano ```true``` se o valor segundo parâmetro está contido no ```array``` passado no primeiro parametro e ```false``` caso o contrário. 
+A função deve retornar um valor booleano `true` se o valor segundo parâmetro está contido no `array` passado no primeiro parametro e `false` caso o contrário. 
 Requisito: utilize parâmetros de entrada e saída na sua função, arrays, e loops. 
 Dica: crie um variável do tipo booleando que vai funcionar como uma flag dentro da função.
 
@@ -79,11 +79,11 @@ Usando Kotlin crie uma função que recebe um array de inteiros e um inteiro que
 A função deve retornar um array de inteiros contendo a quantidade de elementos delimimitado pelo segundo parâmetro. 
 O array retornado deve está ordenado em ordem crescente.
 
-O código ```desafio7(array: [5,4,3,2,1], count: 3)``` deve retornar ```[1,2,3]```.
+O código `desafio7(array: [5,4,3,2,1], count: 3)` deve retornar `[1,2,3]`.
 
-O código ```desafio7(array: [256,16], count: 3)``` deve retornar ```[16, 256]```.
+O código `desafio7(array: [256,16], count: 3)` deve retornar `[16, 256]`.
 
-O código ```desafio7(array: [], count: 3)``` deve retornar um array vazio.
+O código `desafio7(array: [], count: 3)` deve retornar um array vazio.
 
 ```kotlin runnable
 fun main(args: Array<String>) {
