@@ -58,17 +58,12 @@ Usando Kotlin, escreva uma função que conte de 1 a 100 e imprima “Fizz” se
 
 ### Exemplo de entrada e saída
 
-Quando o contador for 1 deve imprimir “1”
-
-Quando o contador for 2 deve imprimir “2”
-
-Quando o contador for 3 deve imprimir “Fizz”
-
-Quando o contador for 4 deve imprimir “4”
-
-Quando o contador for 5 deve imprimir “Buzz”
-
-Quando o contador for 15 deve imprimir “Fizz Buzz”
+- Quando o contador for 1 deve imprimir “1”
+- Quando o contador for 2 deve imprimir “2”
+- Quando o contador for 3 deve imprimir “Fizz”
+- Quando o contador for 4 deve imprimir “4”
+- Quando o contador for 5 deve imprimir “Buzz”
+- Quando o contador for 15 deve imprimir “Fizz Buzz”
 
 ```kotlin runnable
 fun main(args: Array<String>) {
