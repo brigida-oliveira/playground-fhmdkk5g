@@ -81,11 +81,9 @@ Usando Kotlin crie uma função que recebe um array de inteiros e um inteiro que
 A função deve retornar um array de inteiros contendo a quantidade de elementos delimimitado pelo segundo parâmetro. 
 O array retornado deve está ordenado em ordem crescente.
 
-O código `desafio7(array: [5,4,3,2,1], count: 3)` deve retornar `[1,2,3]`.
-
-O código `desafio7(array: [256,16], count: 3)` deve retornar `[16, 256]`.
-
-O código `desafio7(array: [], count: 3)` deve retornar um array vazio.
+- O código `desafio7(array: [5,4,3,2,1], count: 3)` deve retornar `[1,2,3]`.
+- O código `desafio7(array: [256,16], count: 3)` deve retornar `[16, 256]`.
+- O código `desafio7(array: [], count: 3)` deve retornar um array vazio.
 
 ```kotlin runnable
 fun main(args: Array<String>) {
